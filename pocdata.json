@@ -1,4 +1,3 @@
-[
 { name: "react-native",
     exactVersion: "0.9.0-rc",
     componentId: "npm/react-native",
@@ -438,4 +437,3 @@
       },
     ]
   }
-]
